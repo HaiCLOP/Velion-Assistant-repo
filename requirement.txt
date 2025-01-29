@@ -1,0 +1,7 @@
+speechrecognition==3.8.1
+pyttsx3==2.7
+datetime==4.3
+webbrowser==0.0.1
+requests==2.26.0
+spotipy==2.19.0
+colorama==0.4.4
