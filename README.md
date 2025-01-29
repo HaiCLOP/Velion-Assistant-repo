@@ -163,3 +163,5 @@ Velion stands as a testament to the potential of voice-activated personal assist
 As technology continues to evolve, Velion can adapt and grow, offering even more features and capabilities. By engaging with users in a conversational manner, Velion provides not only practical assistance but also a friendly companion that enhances productivity and enriches daily life.
 With the groundwork laid for future expansions, Velion is poised to become a staple in users' digital lives, empowering them to accomplish tasks more efficiently and enjoyably. Embrace the future of personal assistance with Velion and explore the myriad possibilities it offers!
 
+##Made By Arnav Srivastava and Kavyansh Khaitan 
+### Penalty for copying of 10,000$
